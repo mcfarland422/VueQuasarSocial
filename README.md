@@ -1,2 +1,2 @@
 # VueQuasarSocial
-Social Platform built with Vue.js and Quasar
+Full Stack Social Media Platform built with Vue.js, Quasar, Express, Node.js and Firebase
